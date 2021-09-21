@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=jo0BqJ_9EN4
 -----------------------------------------------------
 --Executive Summary:
     --Search Optimization Service gives 13x (104seconds vs 8 seconds) improvement in query speed
